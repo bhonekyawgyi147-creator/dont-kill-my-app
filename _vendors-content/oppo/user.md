@@ -1,4 +1,4 @@
----
+--_vendors-content/oppo-
 manufacturer: 
     - oppo
 
